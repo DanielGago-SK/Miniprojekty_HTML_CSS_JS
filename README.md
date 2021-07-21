@@ -1,2 +1,3 @@
-# Miniprojekty_HTML_CSS_JS
-Ukážky kusov kódu ktoré sa môže hodiť pri tvorbe webu.
+## Miniprojekty_HTML_CSS_JS ###  
+Tu budú daktoré malé ukážkové bloky, detaily, ktoré by sa dali použiť pri tvorbe webu.   
+Dizajn celých stránok mi robí trochu problémy )nie kód ale celkový dizajn, dojem), ale s jednotlivými blokmi sa rád pohrám a rád sa o to podelím.
